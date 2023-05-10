@@ -1,7 +1,6 @@
-# nie pozwalamy tutaj na dzielenie przez zero - erorr message
-# nieskonczona pętla z pytaniem (input) - czyli pewnie while
-# petla nieskonczona z funkcja break -- albo użyć funkcji exit zamiast break
-# program konczy dzialanie dopiero kiedy user wpisze ustalony znak - 0
+#pobrać te rozszerzenia itd.
+# link i instrukcje masz na czacie gmaila
+
 
 def dodawanie(a, b):
     return a + b
