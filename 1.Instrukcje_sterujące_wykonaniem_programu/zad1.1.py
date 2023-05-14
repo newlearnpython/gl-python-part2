@@ -1,8 +1,8 @@
 print ("Hello")
-userage = input ("Ile masz lat?")
-userage = int(x)
-if int(x) >= 18:
+userage = input ("Ile masz lat? Wpisz liczbe :")
+userage = int(userage)
+if int(userage) >= 18:
     print("Jesteś pełnoletni")
     pass
-elif:
-   print("Jesteś niepełnoletni")
+elif int(userage) < 18 :
+    print("Jesteś niepełnoletni")
